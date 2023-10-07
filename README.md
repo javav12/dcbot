@@ -7,3 +7,5 @@ def tokenem():
     return tokencik
 
 kodunu kopyalayın tokenini gir yazzan yere tokeninizi girin
+ve images diye kılasör açıp mem dosyalarını içine atın
+
